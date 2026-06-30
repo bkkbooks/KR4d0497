@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0497/WYG/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 揭文安公全集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 16:24:09.389484'
+  source:
+    repository: kanripo
+    path: KR4d0497/KR4d0497_014.txt
+hash: sha256:581131d9886a56c535cc9f37b7e66bc6227cedcaeb060f0f6193ccc62190ee96
