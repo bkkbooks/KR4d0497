@@ -1023,6 +1023,7 @@ markers:
       ', id: KR4d0497_krp_012-bkkkrnewl145}
   - {type: line-break, offset: 2260, content: '', id: KR4d0497_SBCK_012-7b03}
   - {type: punctuation, offset: 2265, content: (, id: KR4d0497_krp_012-bkkpn1}
+  - {type: voice, offset: 2265, length: 22, name: note, id: n1}
   - {type: substitution, offset: 2270, original: 牐, replacement: 閘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16774}}
   - {type: variant, offset: 2274, length: 13, content: 泗水東北至于兖州為牐一以節, WYG: ''}
   - {type: punctuation, offset: 2276, content: /, id: KR4d0497_krp_012-bkkpn2}
@@ -3002,6 +3003,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 5884, content: '-', id: KR4d0497_krp_012-bkkkrnonc3}
   - {type: 'kr:non-cjk', offset: 5885, content: +, id: KR4d0497_krp_012-bkkkrnonc4}
   - {type: punctuation, offset: 5885, content: (, id: KR4d0497_krp_012-bkkpn4}
+  - {type: voice, offset: 5885, length: 2, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 5886, content: '-', id: KR4d0497_krp_012-bkkkrnonc5}
   - {type: punctuation, offset: 5887, content: ), id: KR4d0497_krp_012-bkkpn5}
   - {type: 'kr:non-cjk', offset: 5887, content: ']', id: KR4d0497_krp_012-bkkkrnonc6}
@@ -3912,6 +3914,7 @@ markers:
       ', id: KR4d0497_krp_012-bkkkrnewl502}
   - {type: line-break, offset: 7545, content: '', id: KR4d0497_SBCK_012-23b08}
   - {type: punctuation, offset: 7547, content: (, id: KR4d0497_krp_012-bkkpn6}
+  - {type: voice, offset: 7547, length: 30, name: note, id: n3}
   - {type: variant, offset: 7554, length: 19, content: 學皇元科目復興之後能用周程朱張之書以為, WYG: ''}
   - {type: punctuation, offset: 7562, content: /, id: KR4d0497_krp_012-bkkpn7}
   - {type: punctuation, offset: 7577, content: ), id: KR4d0497_krp_012-bkkpn8}
@@ -5266,6 +5269,7 @@ markers:
   - {type: line-break, offset: 10374, content: '', id: KR4d0497_SBCK_012-32a04}
   - {type: variant, offset: 10374, length: 18, content: 莭功臣太傅謚忠烈僉樞累贈體仁保徳佐運, WYG: 節}
   - {type: punctuation, offset: 10375, content: (, id: KR4d0497_krp_012-bkkpn9}
+  - {type: voice, offset: 10375, length: 28, name: note, id: n4}
   - {type: substitution, offset: 10379, original: 謚, replacement: 諡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20215}}
   - {type: substitution, offset: 10384, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: punctuation, offset: 10389, content: /, id: KR4d0497_krp_012-bkkpn10}
@@ -6422,4 +6426,4 @@ markers:
 
       ', id: KR4d0497_krp_012-bkkkrnewl833}
   back: []
-hash: sha256:ffbd0001a2f75e5012846d66cc2c4f5158ab397386f5ff8a07654cb189e342b6
+hash: sha256:98d9fb9b46d1027acd6c0be5254930ccbba4aac41c8fd63c59a232dc65c2e89e

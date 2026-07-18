@@ -183,6 +183,7 @@ markers:
   - {type: variant, offset: 293, length: 9, content: 湖南憲使盧學士移病, WYG: 逺百越蕭生}
   - {type: page-break, offset: 293, content: '', id: KR4d0497_WYG_004-2a, image: WYG1208/WYG1208-0186a.png}
   - {type: punctuation, offset: 297, content: (, id: KR4d0497_krp_004-bkkpn1}
+  - {type: voice, offset: 297, length: 26, name: note, id: n1}
   - {type: variant, offset: 304, length: 11, content: 舟次武昌辱問不肖姓名先, WYG: ''}
   - {type: punctuation, offset: 310, content: /, id: KR4d0497_krp_004-bkkpn2}
   - {type: variant, offset: 316, length: 1, content: 寄, SBCK: 􅀉}
@@ -2483,6 +2484,7 @@ markers:
   - {type: indent, offset: 4222, content: 　　, id: KR4d0497_krp_004-bkkind88}
   - {type: variant, offset: 4225, length: 1, content: 啚, WYG: 圖}
   - {type: punctuation, offset: 4226, content: (, id: KR4d0497_krp_004-bkkpn4}
+  - {type: voice, offset: 4226, length: 19, name: note, id: n2}
   - {type: punctuation, offset: 4228, content: /, id: KR4d0497_krp_004-bkkpn5}
   - {type: punctuation, offset: 4230, content: /, id: KR4d0497_krp_004-bkkpn6}
   - {type: variant, offset: 4230, length: 0, content: '', WYG: 山礬一兼水仙}
@@ -2646,4 +2648,4 @@ markers:
 
       ', id: KR4d0497_krp_004-bkkkrnewl348}
   back: []
-hash: sha256:239dc26ca35c04b55204245e52487f4651a118b14082de4b6c1b6051a7801afb
+hash: sha256:5e1440513917bb109ad5ad26ed39780b66ffb613ee2c0c9f0f6302196aed4101

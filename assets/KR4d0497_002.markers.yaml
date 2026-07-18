@@ -716,6 +716,7 @@ markers:
   - {type: substitution, offset: 1247, original: 独, replacement: 獨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16975}}
   - {type: variant, offset: 1248, length: 1, content: 往, WYG: 徃}
   - {type: punctuation, offset: 1252, content: (, id: KR4d0497_krp_002-bkkpn1}
+  - {type: voice, offset: 1252, length: 9, name: note, id: n1}
   - {type: variant, offset: 1253, length: 1, content: 侶, WYG: 侣}
   - {type: punctuation, offset: 1257, content: /, id: KR4d0497_krp_002-bkkpn2}
   - {type: punctuation, offset: 1261, content: ), id: KR4d0497_krp_002-bkkpn3}
@@ -1153,6 +1154,7 @@ markers:
   - {type: substitution, offset: 2000, original: 囯, replacement: 國, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20035}}
   - {type: variant, offset: 2004, length: 1, content: 慶, SBCK: 􅂟}
   - {type: punctuation, offset: 2005, content: (, id: KR4d0497_krp_002-bkkpn4}
+  - {type: voice, offset: 2005, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 2008, content: /, id: KR4d0497_krp_002-bkkpn5}
   - {type: punctuation, offset: 2010, content: ), id: KR4d0497_krp_002-bkkpn6}
   - {type: variant, offset: 2011, length: 1, content: 工, WYG: 公}
@@ -1351,6 +1353,7 @@ markers:
   - {type: line-break, offset: 2360, content: '', id: KR4d0497_SBCK_002-9a01}
   - {type: variant, offset: 2372, length: 1, content: 發, SBCK: 􅀤}
   - {type: punctuation, offset: 2376, content: (, id: KR4d0497_krp_002-bkkpn7}
+  - {type: voice, offset: 2376, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 2379, content: /, id: KR4d0497_krp_002-bkkpn8}
   - {type: punctuation, offset: 2381, content: ), id: KR4d0497_krp_002-bkkpn9}
   - {type: 'kr:newline', offset: 2381, content: '
@@ -2416,6 +2419,7 @@ markers:
   - {type: variant, offset: 4238, length: 1, content: 啚, WYG: 圖}
   - {type: punctuation, offset: 4240, content: (, id: KR4d0497_krp_002-bkkpn10}
   - {type: variant, offset: 4240, length: 2, content: 并序, WYG: ''}
+  - {type: voice, offset: 4240, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 4242, content: ), id: KR4d0497_krp_002-bkkpn11}
   - {type: 'kr:newline', offset: 4242, content: '
 
@@ -2687,6 +2691,7 @@ markers:
   - {type: variant, offset: 4716, length: 1, content: 寄, SBCK: 􅀉}
   - {type: variant, offset: 4718, length: 1, content: 卲, WYG: 邵}
   - {type: punctuation, offset: 4730, content: (, id: KR4d0497_krp_002-bkkpn12}
+  - {type: voice, offset: 4730, length: 45, name: note, id: n5}
   - {type: punctuation, offset: 4733, content: /, id: KR4d0497_krp_002-bkkpn13}
   - {type: punctuation, offset: 4736, content: ), id: KR4d0497_krp_002-bkkpn14}
   - {type: 'kr:newline', offset: 4736, content: '
@@ -2715,6 +2720,7 @@ markers:
   - {type: indent, offset: 4775, content: 　　, id: KR4d0497_krp_002-bkkind102}
   - {type: variant, offset: 4775, length: 2721, content: 題桃源啚并序江左飛虎山南十里有桃源者劉王二尊師所辟也臨江范亨文為之記余為賦五言詩十七韵桃源非一䖏龍虎畵難同内外関踰鐡高低石作樷黄旛青劍北紫盖白雲東蟾形當霄逈蛾眉抱月弓六峯名千重藏曲折四面削虚空地户吟風黒天池浴日紅雪霜翻濺瀑雷雨㵼崩洪暗識猨啼逺晴聞鳥語工危龕三井秘絶澗九橋通江合仙巗怒山連鬼谷雄刘王開闢後秦晋有無中時見㸔桃侣頻逢採藥翁丹台寒漠漠琳宇氣熊熊濟勝非無具縁源恐莫穷烟霞俄変㓕草樹杳蘢葱四序何勞誌羣疑倘擊䝉誰言武陵近十里上清宮送人帰豫章積雨霽徂夏故人今日帰手持毛生檄身着萊公衣玉樹桂秋月丹荑掦暁暉東湖徐孺子應恠乆相違送王㽞守宣慰荆湖舟楫連檣出薊丘弓刀千騎入荆州歌翻郢雪寒暄変㤙逐岷波日夜流雲雨暝連神女宅山川晴徺仲宣楼豈無賢士堪招隐應向鹿門深䖏求題張尊師畵晨登翠㣲天氣穆清白雲覆谷飛露垂纓孤猨逺響衆鳥嚶鳴牽蘿渉澗穿石度陉半􅑐華氣萬􅊤松声神宫漠漠靈戸熒熒投隂迹影叩寂求譍素髪老人咲而相迎弗問弗承悟彼長生玄玉流液瑶草結英浩浩犇泉出與川平宛彼下人望我􅑐扃送播州楊宣慰帰藩祗奉綸言出夜郎恭陳壌奠入明光嘉名宣賜黄麾外大宴㤙陪玉座傍天仗影移低日月宫懸声動下鵉皇三呼拜舞君王德永共藩臣守四方㕠旌遥指洞庭西千乗聫翩度五溪龍乕親軍兼使莭犬狼諸䝤入封提光昭廟祏㤙波逺風動藩維礼秩躋北望五雲髙魏闕亦知憂頋在黔黎寄題括蒼王氏東野二亭畊雨時雨布嘉澤羣物盡欣豫晨㒷集童僕東野從所務鴶鵴應候鳴鸝黄翔髙樹衆草萋以出流潦𬒳行路黽勉勤微躬寕𣸪當世慮羲農不我待沮溺諧所慕食力随齊民常恐負空素眷言狗兹道卒此言歲莫心逺窮居豈余志無营得長間醫翳三𤱔宅傾樂彼南山灌木何蒼蒼雲烏相徃還已絶嬰世念况接仁里歡但碩黍稌登春酒恒慰顔羲和緩其轡萬物悠然安寒夜作踈星凍霜空流月􅊜林薄虚館人不眠時聞一葉落送唐尊師祠武當龍衮分香下絳霄羽衣承詔出清朝星臨翼軫南垂濶神降虚危北極遥金殿壓雲開紫氣玉䑓和月合笙䔥蕃釐更為吾皇祝下國時豊雨露饒送詹尊師㱕廬山香爐峰色紫生烟一入京華路杳然雲碓秋聞舂藥水雨犁春臥種芝田書慿海鶴来時寄劍自潭蛟去後懸忽报㱕期驚倦容独淹㣲禄負中年贈淳貞子蕩蕩白玉京超超淳貞子十一求神仙服事丘與李嵩洛三十載結茅白雲裏飡是暘谷霞飲是上池水鬼神莫能識百念吹不起一朝忽騰化徑去不可遮飛駟服五龍角巾揺三花朝發扶桑囯暮宿河漢槎朝食千歲桃暮食五色爪長揖青牛君髙歌渡流沙還憩金陵邸調笑許史家日食五侯鯖安淂厭胡麻春風長安陌落日邯郸道迎人上青天送人入秋草竦身八極外天地忽亦老寄謝區中人全真以為宝孤松萹夀王大斈士大地凍𣣔裂孤松髙穆清横睨㤗華嵩俯察蓬與瀛天風四浩蕩身與元氣并根深本自固霜雪空峥嶸白晝甘露䧏半夜朝陽舟飛枝䕃扶桑劲氣摩欃搶羣鳯所託命百鳥徒嘲鳴㝠冥廣寒宫丹桂亦虚生八萬四千人何時月常盈維此天一柱千歲所飬成自非堯舜君工垂焉敢徴漢武作建章千門照西京掄材當此時餘柯了棟楹天地既有此未必終無情蒼蒼歲寒心永世仰堅貞過何淂之先生故居五首可憐古井門外依旧鍾楼屋西何䖏髙唫痛飲黄花翠竹都迷先生有詩云一井當門凍寒光照四隣又我住東街比鐘楼在屋西心事巣由以上文章陶阮之間千古髙墳保下白雲明月青山軋軋機声日莫依依楊桞春柔厀下中郎小女曽聴唱我髙郵先生常喜余髙郵城詩相見即呼高郵城来每相对酒酣則朗誦數遍頭上鳥紗分贈篋中縞楮相醻不道别時長别誰知愁是真愁延祐五年冬十月余南㱕以中材一叚見贈予以白楮𬒳報之别時殊黯然也且手書其三代召字授予若有所属然也屋上青天未老門前白日常新他日咎䕫稷禼安知不是斯人送譚仲章㱕長沙君家雲陽下忽向雲陽㱕行路有南北㸔山無是非三湘廽鴈盡孤劍白虹飛亦欲投簮去從君采蕨薇我我亭詩并序殷仲堪荅桓温曰我与我周旋久寕作我冝春黄元瑜取以名其亭曰我我為賦詩一首我㳺于袁于龍之干有渊閑閑有環言言有構桓桓維集之安我居我䖏我笑我語有翼其所而敢予侮我植孔嘉我構孔華曽莫之迎而莫我多彼馳者子亦孔劳矣既我覯矣亦莫我逑矣嗟殷氏之老犹弗桓是友我不我友将誰帰咎温温其龢浏浏其清藹藹其芳煥煥其明嗟維古之人尚或予聼送鄭司獄㱕衢州却赴調京師壮年执㦸事明君一日上書天下聞不恨棲遲百僚底犹堪激烈萬人羣爛柯山逺廽孤棹析木天清望五雲盡說于公有隂德掉頭相别大江濆題山水野艇来無数山橋渡有三寒雲依古寺落木帶羸驂廽首重重變幽㝷䖏䖏堪平生㕠眼力江北𣸪江南題御馬圖朱纓金絡轡黄帕錦鞍韉神閑意更逸𥘉下赤墀前題山暉啚爲刘尊師作陵岑毓神秀草木咸光晶毎覧靈景異變態如有情内掩乍如羃飄浮忽相萦熊熊轉空曲奕奕連増城中有幽人居燕坐朝玉京穷隂亦朝徹無月恒夜明碧桃千歲花金芝四時荣猶疑地愛寳随物弄華英題臨江同知问流民亊蹟江北流民七十口三十餘年在江表朋凶結悪四百餘白刃差差歴村保崩騰所向如投空白晝攫金都市中頃由南昌入豊邑反賂守者為先容長官坐堂㓂入室妻子莫逃况金帛豈無鄊民敢相敵長官一揮翻辟易臨江貳守亷且武手縛其渠散其伍豈惟鄊民淂安堵鄰境聞之皆鼓舞其渠在獄伍四歸大府上功民俗熈乃知一念敬厥職萬亊至難皆可爲人民社稷我所有安得坐視如鷄狗人在雞狗猶爱之民社豈在雞狗後請君㸔取臨江守寄題朱氏真村堂深居魏亭北悃愊自無華風俗似太古生涯如小家飲醇猶恐過衣帛向疑奢相与鄰人異詩書有五車送人從軍妙年好文仍好武一旦從軍氣如虎弯弓已作滿月圖㧞劍更逐廽風舞悲笳四起旌斾愁蒼山偃蹇黄雲浮陣前手繋降王􅖪馬上仍懸猛将頭復仇義大身命小順天将軍古来少一戦功成六合清不用黄金印如斗題渊明歸去来啚清江皮使君治南恩有恵政一日自免去而歸老焉廬陵王寔𥘉賞其髙莭以渊明歸去来啚求中朝學士大夫賦詩還以為夀僕用其意賦五言一首吏事乆見牽山澤曠逰盤兹辰理還策乃得從所歡悠悠川塗􅒯忽已造郊園風景一不異鄰曲皆舊觀童稚識人情犇走向我前荒草雖誕漫松菊了不干睠焉循初服常恐負昔言入室多羙酒步庭嘉樹繁曠然心神舒誰謂世路難出䖏各有道既倦當知還方春農事興念之每忘餐貴賤豈不殊樂此農圃安堯舜垂衣裳巢許箕潁間漢祖除暴秦黄綺在商顔彼皆贒逹士今古胡不然永與簪組辞婆娑養餘年昔聞陶彭澤今見皮南恩千歲仰髙軌兹圖良足歎送李都事赴湖廣省幕堂堂李通甫起家掌邦憲直氣横九秋神明激雷電再登蘭臺上愛國心靡轉時當至治末有位日兢戰崩騰五華山鑿翠起臺殿執筆佐御史力諫明且辨斧鑕已在前獨立目不眴駸㝷國多故灾異周八埏君復贊宣政赤手握銓選守法踰天官反得官長怨我皇奮江漢撥亂啟天眷乾坤再開闢日月重昭絢磊落收羣材疏戚共登薦君名一朝起亦作丞相掾丹心益傾竭婉畫勒替献好惡古難同禍福巧相禪天子憂南紀藩宣必時彥下逮曹屬微簡選亦精練君得南省佐聞者盡驚羨傴僂辭闕庭飄揺出畿甸餞送盈路衢懇􅍁陳志願去年天下旱窮蹙無貴賤賑䘏當及時本末須并見方春農事興不廢乃爲善又聞南中賊憑陵及州縣黎獠本吾民撫綏在方面恩信足以懷逼迫使生變況我聖天子轍迹昔所徧勗哉籌策良無使空蹂踐京城雨初過草樹鬰蔥蒨喬木多蚤鸎髙堂有新燕煩辭君勿誚君歌我其抃, WYG: ''}
   - {type: punctuation, offset: 4779, content: (, id: KR4d0497_krp_002-bkkpn21}
+  - {type: voice, offset: 4779, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 4781, content: ), id: KR4d0497_krp_002-bkkpn22}
   - {type: 'kr:newline', offset: 4781, content: '
 
@@ -2750,6 +2756,7 @@ markers:
       ', id: KR4d0497_krp_002-bkkkrnewl361}
   - {type: line-break, offset: 4854, content: '', id: KR4d0497_SBCK_002-17a10}
   - {type: punctuation, offset: 4858, content: (, id: KR4d0497_krp_002-bkkpn23}
+  - {type: voice, offset: 4858, length: 3, name: note, id: n7}
   - {type: punctuation, offset: 4860, content: /, id: KR4d0497_krp_002-bkkpn24}
   - {type: punctuation, offset: 4861, content: ), id: KR4d0497_krp_002-bkkpn25}
   - {type: substitution, offset: 4869, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
@@ -3259,6 +3266,7 @@ markers:
   - {type: line-break, offset: 5974, content: '', id: KR4d0497_SBCK_002-21a10}
   - {type: substitution, offset: 5974, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 5980, content: (, id: KR4d0497_krp_002-bkkpn26}
+  - {type: voice, offset: 5980, length: 26, name: note, id: n8}
   - {type: punctuation, offset: 5992, content: /, id: KR4d0497_krp_002-bkkpn27}
   - {type: substitution, offset: 5994, original: 隣, replacement: 鄰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16534}}
   - {type: substitution, offset: 6002, original: 楼, replacement: 樓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17564}}
@@ -3299,6 +3307,7 @@ markers:
       ', id: KR4d0497_krp_002-bkkkrnewl456}
   - {type: line-break, offset: 6054, content: '', id: KR4d0497_SBCK_002-21b06}
   - {type: punctuation, offset: 6054, content: (, id: KR4d0497_krp_002-bkkpn31}
+  - {type: voice, offset: 6054, length: 27, name: note, id: n9}
   - {type: punctuation, offset: 6070, content: /, id: KR4d0497_krp_002-bkkpn32}
   - {type: substitution, offset: 6070, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
   - {type: substitution, offset: 6073, original: 对, replacement: 對, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16295}}
@@ -3317,6 +3326,7 @@ markers:
       ', id: KR4d0497_krp_002-bkkkrnewl459}
   - {type: line-break, offset: 6105, content: '', id: KR4d0497_SBCK_002-21b09}
   - {type: punctuation, offset: 6105, content: (, id: KR4d0497_krp_002-bkkpn34}
+  - {type: voice, offset: 6105, length: 46, name: note, id: n10}
   - {type: substitution, offset: 6114, original: 㱕, replacement: 歸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-2650}}
   - {type: substitution, offset: 6119, original: 叚, replacement: 假, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17324}}
   - {type: punctuation, offset: 6121, content: /, id: KR4d0497_krp_002-bkkpn35}
@@ -3380,6 +3390,7 @@ markers:
   - {type: line-break, offset: 6222, content: '', id: KR4d0497_SBCK_002-22a07}
   - {type: indent, offset: 6222, content: 　　　, id: KR4d0497_krp_002-bkkind127}
   - {type: punctuation, offset: 6226, content: (, id: KR4d0497_krp_002-bkkpn39}
+  - {type: voice, offset: 6226, length: 2, name: note, id: n11}
   - {type: punctuation, offset: 6228, content: ), id: KR4d0497_krp_002-bkkpn40}
   - {type: 'kr:newline', offset: 6228, content: '
 
@@ -3904,4 +3915,4 @@ markers:
       ', id: KR4d0497_krp_002-bkkkrnewl561}
   - {type: page-break, offset: 7496, content: '', id: KR4d0497_WYG_002-18b, image: WYG1208/WYG1208-0171d.png}
   back: []
-hash: sha256:3a675ec3335afdb442060bac4dc01f89a0f04d967e70c62fa7d21d3441f5f190
+hash: sha256:5791f378372e909dcab60e80465e06e93e1a3da42e649f13bdf9ca6ec36f06ee
